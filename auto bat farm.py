@@ -16,5 +16,5 @@ while True:
     pyautogui.click(85, 50)
     time.sleep(9)
     if keyboard.is_pressed('x'):
-        print('Exiting Program')
+        print('Exiting Program...')
         break
