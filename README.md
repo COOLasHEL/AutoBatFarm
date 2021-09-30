@@ -1,9 +1,10 @@
 # AutoBatFarm
 A farm to automatically farm BAT crypto in the brave browser.
 
-Warning:
-I am unsure if Brave has a rule against this so use it at your own risk
+Warning I do not know if Brave has a rule against this so use at your own risk.
 
-Info:
-You get bat for 4 of the ads per hour and at this current time 1 bat = $0.62 and you get 0.01 bat per 1/4 of a hour so thats 0.04 bat a hour 0.04 bat to usd is $0.025 at this current time.
-With the info above if you sleep 8 hours at this current value of bat you would make $0.20 by the time you wake up.
+This is not a cryptominer it's just an auto ad viewer for the Brave browser so this can run on any device that you can install Brave and Python 3 on.
+
+To install, install brave browser, a version of python 3, the latest release, and when you install it all double click the setup.bat to install all the needed packages.
+
+To run just double click py file after installing everything needed if that doesn't work you can open in Idle version of your choice by right clicking the file and then do f5 when that new window opens to run it there.
