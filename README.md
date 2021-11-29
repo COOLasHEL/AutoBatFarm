@@ -2,6 +2,7 @@
 A farm to automatically farm BAT crypto in the brave browser.
 
 Warning I do not know if Brave has a rule against this so use at your own risk.
+UPDATE it is breaking breaves rules to use this so I dont recommend using.
 
 This is not a cryptominer it's just an auto ad viewer for the Brave browser so this can run on any device that you can install Brave and Python 3 on.
 
