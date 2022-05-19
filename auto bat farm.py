@@ -4,5 +4,5 @@ print('██████╗░░█████╗░████████�
 if not input=='exit'or'quit'or'x':
  print('Started...')
  while True:
-  pyautogui.click(85,50);time.sleep(9)
-  if keyboard.is_pressed('x'):print('Exiting Program');break
+  pyautogui.click(85,50);time.sleep(10)
+  except KeyboardInterrupt:break
